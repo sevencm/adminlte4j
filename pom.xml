@@ -8,7 +8,7 @@
 	<description>a project with java 4 adminlte</description>
 
 	<modules>
-		<module>AdminLAdminLTE4JXTE4JCore</module>
+		<module>AdminLTE4JCore</module>
 		<module>AdminLTE4JX</module>
 	</modules>
 	
