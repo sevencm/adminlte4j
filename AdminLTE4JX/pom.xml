@@ -7,20 +7,9 @@
     <artifactId>AdminLTE4J</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>io.github.seven-cm</groupId>
   <artifactId>AdminLTE4JX</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>AdminLTE4JX Maven Webapp</name>
-  <url>http://maven.apache.org</url>
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
   <build>
     <finalName>AdminLTE4JX</finalName>
   </build>
